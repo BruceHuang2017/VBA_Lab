@@ -1,0 +1,1 @@
+Use debug before the end of the macro. then the value of the variable will show up. 
