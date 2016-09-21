@@ -53,7 +53,7 @@ Sub pollutantsTable()
             
     Else
     
-        If polAmt <= fgl Then
+        If polAmt <= sgl Then
             Range("F3").Interior.ColorIndex = 4
             Range("F3").Value = "Within Limit"
         Else
